@@ -1,20 +1,25 @@
 # flutter_environment
 
+# Add the flutter tool to your path:
+```
 export PATH="$PATH:$HOME/dev/flutter/bin"
 vim ~/.zshrc
 i
 esc
 :
 wq!
+```
 
 # extensions:
-Dart
+```Dart
 Flutter
 Material Icon Theme
 Dart Data Class Genereator
 Awesome Flutter Snippets
+```
 
 # snippets:
+```
 {
   //freezed bloc
      "Freezed BLoC": {
@@ -100,3 +105,4 @@ Awesome Flutter Snippets
         "description": "Template class with Freezed & json serialization"
     },   
 }
+```
